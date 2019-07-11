@@ -1,2 +1,0 @@
-# **Xperia Weather Widget**
-
